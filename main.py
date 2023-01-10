@@ -5,7 +5,7 @@ def get_my_float() -> float:
     """Obtain a float from an imported function.
 
     Returns:
-        a float obtained from an imported function.
+        a float obtained from an imported function somewhere else.
     """
     return get_my_float_from_imported_package()
 
