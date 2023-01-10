@@ -12,4 +12,5 @@ def get_my_float() -> float:
 
 if __name__ == "__main__":
     print("I am going to print a float")
+    print("I've changed the script")
     print(get_my_float())
